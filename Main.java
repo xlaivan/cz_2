@@ -13,6 +13,7 @@ public class Main {
             if (i % 2 == 0){
                 if (array[i] % 2 != 0){
                     System.out.println(array[i]);
+                    System.out.println(" ");
                 }
             }
         }
